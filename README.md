@@ -12,13 +12,9 @@ The pertinent information about the sightings will then be presented in the form
 
 ## **2. Results**
 
-The list element that creates the button is removed, and there are five list elements for filtering in the index.html file. (20 pt)
-The event listener is modified to detect changes to each filter in the app.js file. (10 pt)
-The updateFilters() function saves the element, value, and the id of the filter that was changed. (20 pt)
-The filterTable() function loops through all of the filters and keeps any data that matches the filter values. (20 pt)
-The webpage filters the table correctly based on user input. (20 pt)
+The webpage starts with a nice picture of the night sky and a short 
+The filters used for the search fileds use a Javascript listener on each field. Every time the reader hit enter on any of the filter search the table is updated to display the information in an HTML table on the page.
 
-In this module, you'll build a table using data stored in a JavaScript array. You'll also create filters to make this table fully dynamic, meaning that it will react to user input, and then place the table into an HTML file for easy viewing.
 
 Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
 
@@ -29,5 +25,5 @@ This web page is clean, simple, appealing and informative for the readers. The f
 However, the comments in the data set could be more informative with better descriptions as well as some validation of the information, such as number people witnessing the same sightings.
 
 Improvements that can be made to the web page are as follows:
-  . Have a date range grouping to indicate how many sightings within a certain geographic area - this can show some seasonality trends for the sightings.
-  . Include a count of sightings based on the different filters.
+-   Have a date range grouping to indicate how many sightings within a certain geographic area - this can show some seasonality trends for the sightings.
+-   Include a count of sightings based on the different filters, total sightings by date, city, state, country or shape.
