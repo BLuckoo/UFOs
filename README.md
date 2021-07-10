@@ -12,11 +12,19 @@ The pertinent information about the sightings will then be presented in the form
 
 ## **2. Results**
 
-The webpage starts with a nice picture of the night sky and a short 
+The webpage starts with a nice picture of the night sky and a short introduction of the subject by Dr. Olivier, the well-known Ufologist.
+
+![image](https://user-images.githubusercontent.com/82583576/125169994-bc849f80-e17a-11eb-8bb5-a8f7ce8fffbc.png)
+
+
 The filters used for the search fileds use a Javascript listener on each field. Every time the reader hit enter on any of the filter search the table is updated to display the information in an HTML table on the page.
 
+As the readers scroll down, they will see all the data and filters that are available (which is in the image below). 
 
-Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
+![image](https://user-images.githubusercontent.com/82583576/125169962-96f79600-e17a-11eb-9331-5dfb1dd70688.png)
+
+The readers can enter their search criteria in any or multiple filters in the filter boxes. 
+Once the reader hits ENTER, then the HTML page will show all of the sightings for that specific search. 
 
 ## **3. Summary**
 
